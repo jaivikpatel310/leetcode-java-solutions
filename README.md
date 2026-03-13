@@ -1,2 +1,12 @@
-# leetcode-java-solutions
-This repository contains my Java solutions to LeetCode problems covering Data Structures and Algorithms for coding interview preparation.
+# LeetCode Java Solutions
+
+This repository contains my solutions to LeetCode problems using Java.
+
+## Topics
+- Arrays
+- Stack
+- Queue
+- Linked List
+
+## Goal
+Solve 300+ LeetCode problems to improve Data Structures and Algorithms skills.
